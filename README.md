@@ -1,5 +1,4 @@
-# network-analysis-lab
-Network Analysis Lab
+# Network-Analysis-Lab
 
 # Tools
 
